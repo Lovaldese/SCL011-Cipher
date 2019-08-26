@@ -1,1 +1,48 @@
 /* Acá va tu código */
+
+    
+#root{
+    
+    text-align: center;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 35px;
+    color: black;
+ }
+
+body{
+
+    text-align: center;  
+    background-image: url("imagenes/hoja1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+
+}
+
+.Especie1 { 
+   display:none;
+    width:300px;
+    background: white;
+    padding: 20px;
+    color: black;
+    float: left;
+
+}
+.Especie2{
+display:none;
+    width:300px;
+    background:white;
+    padding: 20px;
+    color:black;
+    float: right;
+}
+
+/*
+#Mensaje1{
+    display:none;
+
+
+}
+#Mensaje2{
+    display:none;
+
+}*/
